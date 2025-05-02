@@ -17,15 +17,32 @@ Here are some ideas to get you started:
 
 ...um desenvolvedor apaixonado por transformar ideias em código e movido a café ☕.
 
-🔭 Atuo como **Desenvolvedor Fullstack** 🚀, com um forte foco e paixão pelo **Back-end**. Minha principal expertise reside no ecossistema **.NET**, trabalhando com **C#**, **.NET Framework** e **.NET Core** para construir APIs e serviços robustos e escaláveis.
+---
 
-No **Front-end**, possuo experiência com **JavaScript** e **TypeScript**, e já utilizei **Vue.js** para desenvolver interfaces em projetos (inclusive no setor financeiro).
+### 🎯 Meu Foco Principal
 
-Minha experiência com bancos de dados se concentra em **SQL Server** 🗄️. Para otimizar ambientes de desenvolvimento e implantação, utilizo **Docker** 🐳 e possuo conhecimentos básicos em nuvem, especificamente com **Azure** ☁️.
+*   Atuo como **Desenvolvedor Fullstack** 🚀, com um forte foco e paixão pelo **Back-end**.
+*   Minha principal expertise reside no ecossistema **.NET**, trabalhando com **C#**, **.NET Framework** e **.NET Core** para construir APIs e serviços robustos e escaláveis.
 
-Sou um grande entusiasta de **código limpo**, boas práticas (como **SOLID** e **DRY**) e **testes automatizados** ✅, buscando sempre a qualidade e manutenibilidade do software.
+### 💻 Outras Experiências e Ferramentas
 
-🌱 Atualmente, estou focado em aprofundar meus conhecimentos em **arquiteturas de microsserviços** e explorar o universo **DevOps (CI/CD)** ⚙️. Tenho também conhecimento intermediário (acadêmico) em **Kubernetes** e estou estudando como a **Inteligência Artificial** 🤖 pode auxiliar e otimizar o processo de desenvolvimento de software.
+*   **Front-end:** Possuo experiência com **JavaScript** e **TypeScript**. Já utilizei **Vue.js** para desenvolver interfaces em projetos (inclusive no setor financeiro).
+*   **Banco de Dados:** Minha experiência se concentra em **SQL Server** 🗄️.
+*   **DevOps & Cloud:** Utilizo **Docker** 🐳 para otimizar ambientes e possuo conhecimentos básicos em nuvem, especificamente com **Azure** ☁️.
+
+### ✨ Princípios que Valorizo
+
+*   Sou um grande entusiasta de **Código Limpo** e **Boas Práticas** (como **SOLID** e **DRY**).
+*   Priorizo **Testes Automatizados** ✅ para garantir a qualidade e manutenibilidade do software.
+
+### 🌱 Atualmente Explorando
+
+*   Aprofundando conhecimentos em arquiteturas de **Microsserviços**.
+*   Explorando o universo **DevOps (CI/CD)** ⚙️.
+*   Conhecimento intermediário (acadêmico) em **Kubernetes**.
+*   Estudando como a **Inteligência Artificial** 🤖 pode auxiliar e otimizar o processo de desenvolvimento.
+
+---
 
 ### 🛠️ Meu Arsenal Tecnológico
 
